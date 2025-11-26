@@ -1,3 +1,4 @@
+<img width="584" height="612" alt="Screenshot 2025-06-15 130128" src="https://github.com/user-attachments/assets/6eea182f-afaf-4744-9cab-e247b46fc0ad" />
 # Sentiment Analysis Web Application using BERT & DistilBERT
 
 This project is a **full-stack Sentiment Analysis Web Application** that predicts the sentiment of a given text using **Transformer-based models (BERT, ALBERT & DistilBERT)** along with **Traditional Machine Learning models**. The application provides real-time sentiment prediction with confidence scores and evaluation metrics.
