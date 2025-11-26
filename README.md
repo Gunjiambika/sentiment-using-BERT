@@ -197,10 +197,6 @@ These metrics are displayed for each selected model.
 
 ---
 
-## 📜 License
 
-This project is for academic and learning purposes only.
-
----
 
 ✅ *If you like this project, give it a star on GitHub!*
