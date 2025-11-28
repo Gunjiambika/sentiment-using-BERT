@@ -3,6 +3,15 @@
 This project is a **full-stack Sentiment Analysis Web Application** that predicts the sentiment of a given text using **Transformer-based models (BERT, ALBERT & DistilBERT)** along with **Traditional Machine Learning models**. The application provides real-time sentiment prediction with confidence scores and evaluation metrics.
 
 ---
+## 🚀 Live Demo
+
+🎯 **Frontend (React + Tailwind CSS):**  
+👉 [Click here to view the live site](https://Gunjiambika.github.io/sentiment-using-BERT/)
+
+⚙️ **Backend (FastAPI):**  
+*(Currently hosted locally or to be deployed on Render soon)*
+
+---
 
 ## 🚀 Features
 
