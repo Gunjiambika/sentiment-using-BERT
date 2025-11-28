@@ -20,7 +20,7 @@ function InputSection({ setResult }) {
     }
     setLoading(true);
     try {
-      const response = await axios.post("http://localhost:8000/analyze/", {
+      const response = await axios.post("https://sentiment-using-bert.onrender.com/analyze/", {
         text: inputText,
         model: model,
       });
