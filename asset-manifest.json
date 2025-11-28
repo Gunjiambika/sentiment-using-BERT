@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sentiment-using-BERT/static/css/main.de7f173a.css",
+    "main.js": "/sentiment-using-BERT/static/js/main.30cb9ab4.js",
+    "index.html": "/sentiment-using-BERT/index.html",
+    "main.de7f173a.css.map": "/sentiment-using-BERT/static/css/main.de7f173a.css.map",
+    "main.30cb9ab4.js.map": "/sentiment-using-BERT/static/js/main.30cb9ab4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de7f173a.css",
+    "static/js/main.30cb9ab4.js"
+  ]
+}
